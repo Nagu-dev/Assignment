@@ -1,0 +1,64 @@
+basics of java>javac HighPeak.java
+
+E:\basics of java>java HighPeak
+TEST CASE 1
+3
+0900
+1030
+100
+1000
+1200
+500
+1100
+1200
+300
+2
+400
+
+E:\basics of java>javac HighPeak.java
+
+E:\basics of java>java HighPeak
+TEST CASE 2
+4
+1000
+1200
+300
+0100
+0200
+500
+0800
+0900
+800
+2000
+2130
+500
+3
+1300
+
+
+E:\basics of java>javac HighPeak.java
+
+E:\basics of java>java HighPeak
+
+TEST CASE 3
+6
+1000
+1100
+200
+1130
+1300
+100
+0500
+0700
+400
+2300
+2400
+500
+0300
+0430
+300
+0600
+0700
+700
+5
+150
